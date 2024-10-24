@@ -1,23 +1,14 @@
-Hi 👋 My name is Khazova Anastasia
-==================================
+<h1 align="center">Hi, I'm Nastya</h1>
+<h3 align="center">Studying backend at School 21. You can find me there under the nickname daliatoo!</h3>
 
-False start 
-------------
+- 🌱 Currently learning C++ and OOP
 
-
-
-* ✉️  You can contact me at [kalukovanastya@gmail.com](mailto:kalukovanastya@gmail.com)
-* 🧠  I'm learning Qlik Sense
-* 🤝  I'm open to collaborating on cognitive science projects
-
-### Skills
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a alt="Photoshop" />alt="Illustrator" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/aniceeia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/aniceeia" height="30" width="40" /></a>
+<a href="/https://t.me/zombieest" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" alt="RSS" height="30" width="40" /></a>
+
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/anastasia-khazova-406656253/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://t.me/zombieest" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" /> </a></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
