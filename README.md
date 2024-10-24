@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nastya</h1>
+
 <h3 align="center">Studying backend at School 21. You can find me there under the nickname daliatoo!</h3>
 
 - 🌱 Currently learning C++ and OOP
