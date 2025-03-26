@@ -1,5 +1,5 @@
 
-<h3 align="center">Studying backend at School 21. You can find me there under the nickname daliatoo!</h3>
+<h3 align="center">Studying backend at School 21.</h3>
 
 - 🌱 Currently learning C++ and OOP
 
