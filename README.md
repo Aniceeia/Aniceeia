@@ -1,7 +1,7 @@
 
 <h3 align="center">Studying backend at School 21.</h3>
 
-- 🌱 Currently learning C++ and OOP
+- 🌱 Currently learning golang
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
