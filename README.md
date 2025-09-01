@@ -1,5 +1,4 @@
 
-<h3 align="center">Studying backend at School 21.</h3>
 
 - 🌱 Currently learning golang
 
